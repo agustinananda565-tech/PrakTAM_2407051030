@@ -67,7 +67,7 @@ fun GoatItem(goat: Goat) {
                     .height(50.dp),
                 shape = RoundedCornerShape(12.dp)
             ) {
-                Text("Pelajari Reproduksi 🐐")
+                Text("Pelajari Tentang Reproduksi 🐐")
             }
         }
     }
